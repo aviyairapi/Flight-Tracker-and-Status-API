@@ -11,7 +11,7 @@
 
 ## Main Endpoint and Filters with Description
 
-**GET** https://data.aviyair.com/data/v1/tracker?key=APIKEY&limit=30
+**GET** `https://data.aviyair.com/data/v1/tracker?key=APIKEY&limit=30`
 
 The limit can be anything, either be 5 or 14000 to set a limit to the total number of flights in the output. You can add the below filters to narrow down all live flights.
 
